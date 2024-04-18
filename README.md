@@ -1,7 +1,7 @@
 <br>😊Olá, me chamo Jorder Gomes!
 <br>📚 Sou formado em Eng de Software
 <br> 👩‍💻 Tenho experiência em desenvolvimento web com Java
-<br>👩‍💻 Atualmente estudo desenvolvimento em Pyhton
+<br>👩‍💻 Atualmente estudo desenvolvimento em Python
 <br>👩‍💻 Conhecimento básico em front-end (html, css, js)
 <br>👩‍💻Tenho interesse em trabalhar no backend.
 
